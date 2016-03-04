@@ -3,7 +3,7 @@ package com.arthurdkid.financialadvisor.models;
 import java.io.Serializable;
 
 /**
- * This is not connected to any of user's bank accounts 
+ * This is not directly connected to any of user's bank accounts 
  * or piggy banks or wallet. This is merely an 
  * estimation/expectation of how much money was saved.
  *   

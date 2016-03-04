@@ -14,7 +14,7 @@ Normal Flow:
 				~> swipe left to view prev expenses for the month
 				~> kapag sobra sa month, need load for next
 				~> may goto sa isang date
-				~> red font color sa date kapag sobra yung expected expense (computation for the month dapat)
+				~> red font color sa date kapag sobra kesa sa expected expense (computation for the month dapat)
 				~> blue font color warning ... galing sa user yung allowance ng warning
 	<- action list
 		<- (---Money Flow---)
